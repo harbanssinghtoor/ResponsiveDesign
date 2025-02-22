@@ -32,14 +32,16 @@ This project is a fully responsive webpage built using **HTML**, **CSS**, and **
 - Media queries allow for adaptive design adjustments on different screen sizes.
 
 ## Screenshots
-DesktopView
+### Desktop View:
 
 1:![Desktop View](Screenshots/DesktopView1.png)
 2:![Desktop View 2](Screenshots/DesktopView2.png)
 
-Mobiel View:
+### Mobile View:
+
 1:
 ![Mobile View](Screenshots/MobileView1.png)
+
 2:
 ![MobileView2](Screenshots/MobileView2.png)
 
