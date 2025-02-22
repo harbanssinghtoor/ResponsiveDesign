@@ -42,7 +42,10 @@ main {
 }
 .view-1 img {
   width: 100%;
+  aspect-ratio: 3/1.5;
   border-radius: 1rem;
+  -o-object-fit: cover;
+     object-fit: cover;
 }
 
 .view-2 {
