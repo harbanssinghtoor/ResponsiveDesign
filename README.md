@@ -15,6 +15,20 @@ This project is a fully responsive webpage built using **HTML**, **CSS**, and **
 - **SCSS**: Preprocessed CSS for enhanced styling features.
 - **Flexbox**: Used for flexible and efficient layout management.
 
+## Screenshots
+### Desktop View:
+
+1:![Desktop View](Screenshots/DesktopView1.png)
+2:![Desktop View 2](Screenshots/DesktopView2.png)
+
+### Mobile View:
+
+1:
+![Mobile View](Screenshots/MobileView1.png)
+
+2:
+![MobileView2](Screenshots/MobileView2.png)
+
 ## Setup Instructions
 1. Clone the repository:
    ```sh
@@ -30,20 +44,6 @@ This project is a fully responsive webpage built using **HTML**, **CSS**, and **
 - The **SCSS** file is compiled into **CSS** to apply styles efficiently.
 - **Flexbox** is used to ensure dynamic content alignment and responsiveness.
 - Media queries allow for adaptive design adjustments on different screen sizes.
-
-## Screenshots
-### Desktop View:
-
-1:![Desktop View](Screenshots/DesktopView1.png)
-2:![Desktop View 2](Screenshots/DesktopView2.png)
-
-### Mobile View:
-
-1:
-![Mobile View](Screenshots/MobileView1.png)
-
-2:
-![MobileView2](Screenshots/MobileView2.png)
 
 ## License
 This project is licensed under the **MIT License**.
