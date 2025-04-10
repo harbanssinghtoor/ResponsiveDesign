@@ -19,6 +19,7 @@ This project is a fully responsive webpage built using **HTML**, **CSS**, and **
 ### Desktop View:
 
 1:![Desktop View](Screenshots/DesktopView1.png)
+
 2:![Desktop View 2](Screenshots/DesktopView2.png)
 
 ### Mobile View:
